@@ -31,8 +31,6 @@
 8. Aprender a utilizar [componentes electrónicos](./Componentes.md) para realizar proyectos robóticos. 
 9. Aprender a integrar estas herramientas en el aula.
 
-
-
 ## Contenidos
 
 ### Scratch
@@ -44,24 +42,11 @@
 
 ### Arduino
 
-1. [Arduino](./Arduino.md):
-  * Breve historia y revisión de proyectos que lo usan
-  * Programación con entornos visuales
-  * Componentes electrónicos sencillos
-1. [Programación visual en Arduino](./BitBloq.md)
-  * Sentencias de control
-  * Variables
-  * Medida de tiempos
-1. Programación en C++ con el IDE de Arduino
-  * Sentencias de control
-  * Uso de librerías
-  * Sensores
-  * Actuadores (motores y servos)
-1. [Montaje de proyectos](./proyectos.md)
-  * Definición del proyecto
-  * Montaje
-  * Programación
-1. Exposición de los proyectos
+4. ¿Qué es Arduino? Utilidad
+5. Programación con bloques
+6. Entornos de programación, librerías
+7. Proyectos con Arduino
+
 ## Descripción
 
 En esta sociedad tan ligada a las tecnologías de la información, es importante introducir a los profesores y alumnos en la programación. Se trata de hacer que los ordenadores realicen las tareas que nosotros deseamos, además de usar las aplicaciones que otros crearon para nosotros. 
@@ -84,6 +69,8 @@ El uso de herramientas visuales permite a los alumnos asimilar fácilmente el pa
 
 Cada vez más utilizado en el entorno docente se ha mostrado como una excelente [herramienta pedagógica](./contexto.md), prueba de ello es la cantidad de experiencias disponibles en la [comunidad online](https://scratch.mit.edu/explore/projects/all).
 
+![Arduino](./imagenes/Arduino_Uno_-_R3.jpg)
+
 La robótica (y la programación) se han consolidado como una herramienta que cada vez más docentes utilizan en todos los niveles (Educación Infantil, Primaria, Secundaria, Bachillerato y FP). 
 
 Ha dejado de ser una materia en sí misma para pasar a ser una competencia transversal que apoya a otras materias en el aprendizaje. 
@@ -95,6 +82,8 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 
 ## Indice
 
+### Scratch
+
 * [¿Por qué programar?](./contexto.md)
 * Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
 * Introducción a Scratch (y [alternativas como Snap](./snap.md))
@@ -103,3 +92,24 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
   * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
   * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
+
+### Arduino
+
+* [Arduino](./Arduino.md):
+  * Breve historia y revisión de proyectos que lo usan
+  * Programación con entornos visuales
+  * Componentes electrónicos sencillos
+* [Programación visual en Arduino](./BitBloq.md) y (ArduinoBlocks)
+  * Sentencias de control
+  * Variables
+  * Medida de tiempos
+* Programación en C++ con el IDE de Arduino
+  * Sentencias de control
+  * Uso de librerías
+  * Sensores
+  * Actuadores (motores y servos)
+* [Montaje de proyectos](./proyectos.md)
+  * Definición del proyecto
+  * Montaje
+  * Programación
+* Exposición de los proyectos
