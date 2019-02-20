@@ -36,9 +36,9 @@
 
 ### Scratch
 
-1.- ¿Qué es Scratch? Funciones básicas del programa Scratch.
-2.- Programación en Scratch: fondos, disfraces, bucles, sonidos, interacción. Seguimiento de la rutina del programa.
-3.- Ejemplos de proyectos Scratch. Plataforma del programa. Compartiendo ideas y programas.
+1. ¿Qué es Scratch? Funciones básicas del programa Scratch.
+2. Programación en Scratch: fondos, disfraces, bucles, sonidos, interacción. Seguimiento de la rutina del programa.
+3. Ejemplos de proyectos Scratch. Plataforma del programa. Compartiendo ideas y programas.
 
 
 ### Arduino
