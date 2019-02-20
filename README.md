@@ -1,28 +1,52 @@
-# Scratch, aprender programando [(191813GE031)](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE031/) 
+# Scratch y Arduino
 
-## CEP Guadix
+## CEP Priego-Montilla
+
 
 ### José Antonio Vacas @javacasm
 
 [![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
-## https://github.com/javacasm/ScratchGuadix
+## [https://github.com/javacasm/ScratchArduinoPriego](https://github.com/javacasm/ScratchArduinoPriego)
 
-* * * 
+|Fecha|Horario
+|---|---
+|24/4/2019| 17-20
+|29/4/2019| 17-20
+|6/5/2019| 17-20
+|8/5/2019| 17-20
+|13/5/2019| 17-20
+|15/5/2019| 17-20
 
 
 ## Objetivos
+
 1. Conocer Scratch
 2. Conocer por qué Scratch facilita la comprensión del proceso de programación
 3. Conocer los elementos principales del entorno de programación Scratch
 4. Concebir y desarrollar proyectos sencillos en Scratch
 5. Interaccionar con el mundo físico desde un programa Scratch
+6. Mostrar el [ecosistema actual de herramientas](./Alternativas.md) que facilitan la creación de proyectos con robots. 
+7. Enseñar a [programar Arduino](./Programacion.md) usando aplicaciones visuales. 
+8. Aprender a utilizar [componentes electrónicos](./Componentes.md) para realizar proyectos robóticos. 
+9. Aprender a integrar estas herramientas en el aula.
+
 
 ## Contenidos
+
+### Scratch
 
 1.- ¿Qué es Scratch? Funciones básicas del programa Scratch.
 2.- Programación en Scratch: fondos, disfraces, bucles, sonidos, interacción. Seguimiento de la rutina del programa.
 3.- Ejemplos de proyectos Scratch. Plataforma del programa. Compartiendo ideas y programas.
+
+
+### Arduino
+
+4. ¿Qué es Arduino? Utilidad
+5. Programación con bloques
+6. Entornos de programación, librerías
+7. Proyectos con Arduino
 
 ## Descripción
 
@@ -31,14 +55,6 @@ En esta sociedad tan ligada a las tecnologías de la información, es importante
 Con Scratch podemos programar nuestras propias historias interactivas, juegos y utilidades y compartir nuestras creaciones en una comunidad virtual. Scratch es una buena herramienta pedagógica, ya que ayuda a los jóvenes a pensar creativamente, a razonar sistemáticamente y a trabajar colaborativamente, habilidades esenciales para su desarrollo vital. 
 
 Scratch es una aplicación gratuita, un proyecto de Lifelong Kindergarten Group en el Instituto Tecnológico de Massachusetts.
-
-## Sesiones
-
-|Fecha|Horario|
-|---|---|
-|30/01/2019|16:30 - 19:30|
-|05/02/2019|16:30 - 19:30|
-|13/02/2019|16:30 -	19:30|
 
 ## Justificación
 
@@ -54,7 +70,20 @@ El uso de herramientas visuales permite a los alumnos asimilar fácilmente el pa
 
 Cada vez más utilizado en el entorno docente se ha mostrado como una excelente [herramienta pedagógica](./contexto.md), prueba de ello es la cantidad de experiencias disponibles en la [comunidad online](https://scratch.mit.edu/explore/projects/all).
 
+![Arduino](./imagenes/Arduino_Uno_-_R3.jpg)
+
+La robótica (y la programación) se han consolidado como una herramienta que cada vez más docentes utilizan en todos los niveles (Educación Infantil, Primaria, Secundaria, Bachillerato y FP). 
+
+Ha dejado de ser una materia en sí misma para pasar a ser una competencia transversal que apoya a otras materias en el aprendizaje. 
+
+Cada vez son más las herramientas, tanto hardware como software que permiten al alumnado realizar proyectos en los que se incluyen de una u otra forma robots. 
+
+Con este curso se pretende introducir a los docentes de Primaria en el uso de la robótica en el aula. 
+
+
 ## Indice
+
+### Scratch
 
 * [¿Por qué programar?](./contexto.md)
 * Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
@@ -65,13 +94,23 @@ Cada vez más utilizado en el entorno docente se ha mostrado como una excelente 
   * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
 
+### Arduino
 
-## [Recursos](./Recursos.md)
-
-[Curso de Scratch 3.0 de Programamos](https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg)
-
-[Cursos de Scratch de Programo Ergo Sum](https://www.programoergosum.com/cursos-online/scratch)
-
-## [OpenSource](./opensource.md)
-
-
+* [Arduino](./Arduino.md):
+  * Breve historia y revisión de proyectos que lo usan
+  * Programación con entornos visuales
+  * Componentes electrónicos sencillos
+* [Programación visual en Arduino](./BitBloq.md) y (ArduinoBlocks)
+  * Sentencias de control
+  * Variables
+  * Medida de tiempos
+* Programación en C++ con el IDE de Arduino
+  * Sentencias de control
+  * Uso de librerías
+  * Sensores
+  * Actuadores (motores y servos)
+* [Montaje de proyectos](./proyectos.md)
+  * Definición del proyecto
+  * Montaje
+  * Programación
+* Exposición de los proyectos
