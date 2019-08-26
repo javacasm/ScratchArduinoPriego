@@ -8,7 +8,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![cc](./images/CCbySQ_88x31.png)
+![cc](./imagenes/CCbySQ_88x31.png)
 
 ## [https://github.com/javacasm/ArduinoDE_2016](https://github.com/javacasm/ArduinoDE_2016)
 
@@ -38,7 +38,7 @@ A lo largo de estos vídeos veremos algunas de sus características más importa
 [[vídeo]](https://youtu.be/rOdMRhhQTUs) [[ejemplo
 Parpadeo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/blob/master/bitbloq/1.%20parpadeo.json)
 
-![parpadeo](./images/1%20parpadeo.png)
+![parpadeo](./imagenes/1%20parpadeo.png)
 
 ### Usaremos el led interno
 
@@ -133,11 +133,11 @@ Bitbloq nos permite programar nuestro arduino sin instalar (practicamente) nada 
 
 Para enviar datos al PC necesitamos añadir el componente "Puerto Serie"
 
-![HardwareSerie](./images/HardwareSerie.png)
+![HardwareSerie](./imagenes/HardwareSerie.png)
 
 Una vez añadido tendremos acceso a las funciones de comunicaciones. Podremos enviar cualquier contenido (variables, texto, etc...)
 
-![SoftwareSerie.png](./images/SoftwareSerie.png)
+![SoftwareSerie.png](./imagenes/SoftwareSerie.png)
 
 Podremos ver estos valores por el "Monitor Serie"
 
@@ -151,7 +151,7 @@ Las sentencias de control son aquellas que nos permite modificar el orden o el m
 
 Cuando añadimos un sensor analógico podemos leer su valor con un nuevo componente
 
-![pot](./images/Potenciometro.png)
+![pot](./imagenes/Potenciometro.png)
 
 Podremos utilizar ese valor que estará entre 0 y 1023
 
@@ -185,12 +185,12 @@ Con las variables podemos realizar operaciones matemáticas
 
 [[video]](https://youtu.be/nvRUCZERScE)  [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/operaciones%20variables.json)
 
-![ejemplo](./images/operaciones%20variables.png)
+![ejemplo](./imagenes/operaciones%20variables.png)
 
 ### Bucle **for**
 [[vídeo]](https://youtu.be/mIAgTdc4oC8) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/bucle%20for.json)
 
-![bucle for](./images/bucle%20for.png)
+![bucle for](./imagenes/bucle%20for.png)
 
 El bucle **for** permite repetir un conjunto de pasos un número de veces determinado.
 Necesitamos  declarar una variables que actuará como contador y definir el valor inicial que tendrá la variable y el final, realizándose tantos como pasos como valores enteros haya entre ambas.
@@ -198,14 +198,14 @@ Necesitamos  declarar una variables que actuará como contador y definir el valo
 ### Bucle **while**
 [[vídeo]](https://youtu.be/RVcaaz1NYjk) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/bucle%20while.json)
 
-![bucle while](./images/bucle%20mientras.png)
+![bucle while](./imagenes/bucle%20mientras.png)
 
 Usaremos la sentencia de control **while** para los bucles donde el número de veces que se repite no está definido desde el principio
 
 ### Bloque **if** : sentencias condicionales
 [[vídeo]](https://youtu.be/RTtn_77pZY4	) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/condiconales.json)
 
-![condicional](./images/condicionales.png)
+![condicional](./imagenes/condicionales.png)
 
 Las sentencias condicionales permiten ejecutar un código y otro según se cumpla o no una determinada condición. Esta condición será una validación que definiremos con operandos.
 
@@ -213,13 +213,13 @@ Podemos hacer que en caso de que se cumpla se ejecute un código (es el bloque i
 
 [[video]](https://youtu.be/-f_htl5TQN8)[[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/condicional%20compleja.json)
 
-![ejemplo](./images/concional%20compleja.png)
+![ejemplo](./imagenes/concional%20compleja.png)
 
 ### Condicionales complejas
 [[vídeo](http://youtu.be/en_Y-_wVyO0)]
 [][ejemplo](./ejemplosBitbloq/condiciones_if.xml)]
 
-![Condiciones_lógicas](./images/concional%20compleja.png)
+![Condiciones_lógicas](./imagenes/concional%20compleja.png)
 
 La condición que determina si se ejecuta un bloque u otro o si salimos de un bloque while puede contener varias comprobaciones.
 
@@ -283,7 +283,7 @@ Entre estas condiciones utilizaremos operadores lógicos que pueden ser AND o OR
 ## Envío de datos al PC:
 [[vídeo]](https://youtu.be/hy9t76RLeBU) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/comunicacion%20serie.json)
 
-![serial](./images/comunicacion_serie.png)
+![serial](./imagenes/comunicacion_serie.png)
 
 Podemos enviar contenidos entre nuestra placa y el PC usando las sentencias de comunicaciones. Usaremos print para enviar algo (puede ser el valor de una variable o un texto) al pc o println para enviar y pasar a la siguiente línea.
 
@@ -291,13 +291,13 @@ Podemos enviar contenidos entre nuestra placa y el PC usando las sentencias de c
 
 [[video]](https://youtu.be/nChCA1Qc0uo)[[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entrada%20analogica.json)
 
-![entradasanalogicas](./images/entrada%20analogica.png)
+![entradasanalogicas](./imagenes/entrada%20analogica.png)
 
 ## Variables locales vs Variables globales
 
 [vídeo](https://youtu.be/U3ulo7rAE58) [ejemplo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/variables%20globales.json)
 
-![ejemplo](./images/variables%20globales.png)
+![ejemplo](./imagenes/variables%20globales.png)
 
 Podemos definir variables locales o globales. Una variable global estará definida y por tanto mantendrá su valor en todo el programa, mientras que una variable local solo se definirá donde se haya declarado.
 
@@ -307,7 +307,7 @@ Las variables globales mantienen su valor entre las distintas iteraciones que se
 
 [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/ejemplo%20bucle%20arduino.json)
 
-![ejemplo](./images/ejemplo%20bucle%20arduino.png)
+![ejemplo](./imagenes/ejemplo%20bucle%20arduino.png)
 
 Podemos usar la forma cíclica (y unas variables globales) en la que se ejecutan los programas en Arduino para hacer un bucle sin más estructuras de control que una simple variable global
 
@@ -320,7 +320,7 @@ En bitbloq existen 2 formas de generar sonidos
 
 * Si pulsamos en la opción de "Avanzados" veremos que podemos usar bloques donde seleccionar la frecuencia exacta que queremos reproducir y su duración.
 
-![imagen](./images/sonido.png) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/sonido.json)
+![imagen](./imagenes/sonido.png) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/sonido.json)
 
 
 
@@ -331,26 +331,26 @@ Veamos como podemos usar las entradas y salidas digitales
 [[video]](https://youtu.be/GmvUamkeG4Y) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/pines%20digitales.json)
 
 
-![imagen](./images/pines%20digitales.png)
+![imagen](./imagenes/pines%20digitales.png)
 
 Veamos ahora como activar un led al pulsar un botón. Para ello añadiremos un botón y un led en el apartado del hardware
 
 [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entradaysalidadigital.json)
 
-![ejemplo](./images/entradaysalidadigital.png)
+![ejemplo](./imagenes/entradaysalidadigital.png)
 
 ## Entradas analógicas
 
 [[video]](https://youtu.be/nChCA1Qc0uo)[[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entrada%20analogica.json)
 
-![entradasanalogicas](./images/entrada%20analogica.png)
+![entradasanalogicas](./imagenes/entrada%20analogica.png)
 
 ## Servos
 
 Para usar la librería Servo con bitbloq podemos usar los bloques Servo. Existen 2 tipos de servos: los de rotación continua y los normales.
 
-![HardwareServo.png](./images/HardwareServo.png)
+![HardwareServo.png](./imagenes/HardwareServo.png)
 
-![SoftwareServo.png](./images/SoftwareServo.png)
+![SoftwareServo.png](./imagenes/SoftwareServo.png)
 
 Puedes encontrar más tutoriales en la página [oficial de bitbloq](http://diwo.bq.com/tag/bitbloq-2/)
