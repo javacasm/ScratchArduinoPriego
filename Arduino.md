@@ -8,7 +8,7 @@
 
 José Antonio Vacas @javacasm
 
-![cc](./images/CCbySQ_88x31.png)
+![cc](./imagenes/CCbySQ_88x31.png)
 
 [https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
 
@@ -32,7 +32,7 @@ Si hay un producto que puede representar el boom de la irrupción de la tecnolog
 
 Nosotros usaremos una versión "mejorada": BT-ZUM
 
-![zum](./images/ZUM.png)
+![zum](./imagenes/ZUM.png)
 
 ## [¿qué es arduino?](./presentaciones/%200.0%20-%20Introducci%C3%B3n%20a%20Arduino.pdf)
 
