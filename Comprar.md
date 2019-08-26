@@ -8,7 +8,7 @@
 
 José Antonio Vacas @javacasm
 
-![cc](./images/CCbySQ_88x31.png)
+![cc](./imagenes/CCbySQ_88x31.png)
 
 [https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
 
