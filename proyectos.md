@@ -1,16 +1,14 @@
-# Arduino Básico
+# Scratch y Arduino
 
-## Curso para el CEP de Cordoba
+## CEP Priego-Montilla
 
-19, 20, 25 y 26 de Abril y 9 de Junio 2016
 
-## Nivel básico
+### José Antonio Vacas @javacasm
 
-José Antonio Vacas @javacasm
+[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
-![cc](./imagenes/CCbySQ_88x31.png)
+## [https://github.com/javacasm/ScratchArduinoPriego](https://github.com/javacasm/ScratchArduinoPriego)
 
-[https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
 
 ([Enlace al moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=2418))
 
