@@ -1,12 +1,13 @@
-# Scratch, aprender programando [(191813GE031)](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE031/) 
+# Scratch y Arduino
 
-## CEP Guadix
+## CEP Priego-Montilla
+
 
 ### José Antonio Vacas @javacasm
 
 [![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
-## https://github.com/javacasm/ScratchGuadix
+## [https://github.com/javacasm/ScratchArduinoPriego](https://github.com/javacasm/ScratchArduinoPriego)
 
 * * * 
 
