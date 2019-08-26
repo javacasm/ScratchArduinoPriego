@@ -60,7 +60,7 @@ Nosotros usaremos una versión "mejorada": BT-ZUM
 
 1. Se recomienda usar chrome, para que funcione al 100%. Podemos descargarlos desde [aquí](http://chrome.google.com). Para instalar la versión adecuada necesitamos saber si nuestro sistema operativo es de 32 o de 64 bits
 
-![insta](./images/InstalacionChrome.png)
+![insta](./imagenes/InstalacionChrome.png)
 
 2. Una vez que tengamos nuestro programa  y pulsamos el icono de la flecha para descargar el programa a Arduino. Para instalar la versión adecuada necesitamos saber si nuestro sistema operativo es de 32 o de 64 bits
 
