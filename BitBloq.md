@@ -1,16 +1,14 @@
-# Curso Básico presencial de Arduino
+# Scratch y Arduino
 
-## Organizado por Darwin Eventur
+## CEP Priego-Montilla
 
-### 14-16 diciembre 2016
-
-## [Programa](./programa.md)
 
 ### José Antonio Vacas @javacasm
 
-![cc](./imagenes/CCbySQ_88x31.png)
+[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
-## [https://github.com/javacasm/ArduinoDE_2016](https://github.com/javacasm/ArduinoDE_2016)
+## [https://github.com/javacasm/ScratchArduinoPriego](https://github.com/javacasm/ScratchArduinoPriego)
+
 
 # Programando con [Bitbloq](http://bitbloq.bq.com)
 
