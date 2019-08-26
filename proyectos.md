@@ -8,7 +8,7 @@
 
 José Antonio Vacas @javacasm
 
-![cc](./images/CCbySQ_88x31.png)
+![cc](./imagenes/CCbySQ_88x31.png)
 
 [https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
 
@@ -47,11 +47,11 @@ José Antonio Vacas @javacasm
 
 Usaremos este Hardware
 
-![HardwareParpadeoRegulado.png](./images/HardwareParpadeoRegulado.png)
+![HardwareParpadeoRegulado.png](./imagenes/HardwareParpadeoRegulado.png)
 
 y este Programa
 
-![SoftwareParpadeoRegulado.png](./images/SoftwareParpadeoRegulado.png)
+![SoftwareParpadeoRegulado.png](./imagenes/SoftwareParpadeoRegulado.png)
 
 donde:
 
@@ -84,11 +84,11 @@ Vamos a simular un termostato con un potenciómetro.
 1. En función del valor leído, activaremos una salida, que simula el sistema de frío u otra que simulará el sistema de calor. Si quisieramos hacer el sistema realmente, bastaría conectar un relé a cada salida.
 
 
-![HardwareTermostado_Simulado.png](./images/HardwareTermostado_Simulado.png)
+![HardwareTermostado_Simulado.png](./imagenes/HardwareTermostado_Simulado.png)
 
 ## Programa
 
-![SoftwareTermostado(Simulado).png](./images/SoftwareTermostado_Simulado.png)
+![SoftwareTermostado(Simulado).png](./imagenes/SoftwareTermostado_Simulado.png)
 
 Coneptos:
 * Umbral.
@@ -101,13 +101,13 @@ Coneptos:
 
 Un pulsador activa la luz de la escalera, cuya duración depende del valor de un potenciómetro
 
-![HardwareLuzEscalera](./images/HardwareLuzEscalera.png)
+![HardwareLuzEscalera](./imagenes/HardwareLuzEscalera.png)
 
 ## [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:f38326dd-180b-4f46-8963-3cbd35d909a1)
 
 ## Programa
 
-![SoftwareLuzEscalera](./images/SoftwareLuzEscalera.png)
+![SoftwareLuzEscalera](./imagenes/SoftwareLuzEscalera.png)
 
 # Robot No te caigas
 
@@ -115,11 +115,11 @@ Robot muy sencillo que va vigilando por si encuentra el borde de la mesa, deteni
 
 ## Hardware
 
-![HardwareNoTeCaigas](./images/HardwareNoTeCaigas.png)
+![HardwareNoTeCaigas](./imagenes/HardwareNoTeCaigas.png)
 
 ## Programa
 
-![SoftwareNoTeCaigas](./images/SotwareNoTeCaigas.png)
+![SoftwareNoTeCaigas](./imagenes/SotwareNoTeCaigas.png)
 
 ## [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:4c95e7b5-0717-4881-8593-8963f37550aa)
 
@@ -137,7 +137,7 @@ Robot muy sencillo que va vigilando por si encuentra el borde de la mesa, deteni
 
 ### Hardware
 
-![hardware](./images/HardwareSemaforoBarrera.png)
+![hardware](./imagenes/HardwareSemaforoBarrera.png)
 
 1. Queremos añadir un botón para decidir cuando cambia. Basta con activar el cambio cuando se activa el pulsador
 
@@ -153,7 +153,7 @@ TODO: Maqueta (¿modelo 3D?)
 
 1. ¿qué es un Seguidor Solar?
 
-![seguidorsolar](./images/seguidorSolar.jpg)
+![seguidorsolar](./imagenes/seguidorSolar.jpg)
 
 1. Componentes
   * Montaje
@@ -173,9 +173,9 @@ TODO: Maqueta (¿modelo 3D?)
 
 Se trata de usar dos sensores analógicos para controlar la frecuencia y la duración de la nota que reproducirá el zumbador
 
-![h](./images/HardwareGaita.png)
+![h](./imagenes/HardwareGaita.png)
 
-![s](./images/SoftwareGaita.png)
+![s](./imagenes/SoftwareGaita.png)
 
 
 Propuesta: usar sensores digitales (sensores infrarrojos) para construir un instrumento afinado
@@ -193,9 +193,9 @@ En función de la distancia al obstáculo haremos:
 
 [Enlace al proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:181600d4-5f14-4bd8-a156-b9a304476891)
 
-![H](./images/HardwareSensorAparcamiento.png)
+![H](./imagenes/HardwareSensorAparcamiento.png)
 
-![S](./images/SoftwareSensorAparcamiento.png)
+![S](./imagenes/SoftwareSensorAparcamiento.png)
 
 [vídeo](https://www.youtube.com/watch?v=7hgUJK6-60k&feature=youtu.be)
 
@@ -205,6 +205,6 @@ Se trata de un robot sencillo que usa 2 servos para moverse y que sigue una lín
 
 [Enlace al proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:6f5e9d66-9811-4ce6-b9bf-c3b1a9244fec)
 
-![H](./images/HardwareRobotSiguelineas.png)  
+![H](./imagenes/HardwareRobotSiguelineas.png)  
 
-![S](./images/SoftwareSigueLineas.png)
+![S](./imagenes/SoftwareSigueLineas.png)
