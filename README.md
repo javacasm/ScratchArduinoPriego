@@ -1,4 +1,4 @@
-# INICIACIÓN A LA PROGRAMACIÓN CON ARDUINO Y SCRATCH 3.0 ([201410GE079(http://www.juntadeandalucia.es/educacion/portals/web/cep-priego-montilla/novedades/-/contenidos/detalle/iniciacion-a-la-programacion-con-arduino-y-scratch-3)])
+# INICIACIÓN A LA PROGRAMACIÓN CON ARDUINO Y SCRATCH 3.0 ([201410GE079](http://www.juntadeandalucia.es/educacion/portals/web/cep-priego-montilla/novedades/-/contenidos/detalle/iniciacion-a-la-programacion-con-arduino-y-scratch-3))
 
 ## CEP Priego-Montilla
 
