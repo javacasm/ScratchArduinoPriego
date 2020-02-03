@@ -1,4 +1,4 @@
-# Scratch y Arduino
+# INICIACIÓN A LA PROGRAMACIÓN CON ARDUINO Y SCRATCH 3.0 ([201410GE079(http://www.juntadeandalucia.es/educacion/portals/web/cep-priego-montilla/novedades/-/contenidos/detalle/iniciacion-a-la-programacion-con-arduino-y-scratch-3)])
 
 ## CEP Priego-Montilla
 
@@ -8,9 +8,11 @@
 [![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
 
+# http://bit.ly/ProgPriego20
+
 |Fecha|Horario|
 |---|---|
-|3/2/20|16:30-20:00|
+|3/2/20|16:30-20:00|    
 |10/2/20|16:30-20:00|
 |24/2/20|16:30-20:00|
 |5/3/20|16:30-20:00|
