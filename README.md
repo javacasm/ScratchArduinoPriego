@@ -7,16 +7,13 @@
 
 [![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
-## [https://github.com/javacasm/ScratchArduinoPriego](https://github.com/javacasm/ScratchArduinoPriego)
 
-|Fecha|Horario
-|---|---
-|24/4/2019| 17-20
-|29/4/2019| 17-20
-|6/5/2019| 17-20
-|8/5/2019| 17-20
-|13/5/2019| 17-20
-|15/5/2019| 17-20
+|Fecha|Horario|
+|---|---|
+|3/2/20|16:30-20:00|
+|10/2/20|16:30-20:00|
+|24/2/20|16:30-20:00|
+|5/3/20|16:30-20:00|
 
 
 ## Objetivos
@@ -29,7 +26,7 @@
 6. Mostrar el [ecosistema actual de herramientas](./Alternativas.md) que facilitan la creación de proyectos con robots. 
 7. Enseñar a [programar Arduino](./Programacion.md) usando aplicaciones visuales. 
 8. Aprender a utilizar [componentes electrónicos](./Componentes.md) para realizar proyectos robóticos. 
-9. Aprender a integrar estas herramientas en el aula.
+9. Aprender a integrar estas herramientas en el aula
 
 
 ## Contenidos
@@ -100,7 +97,7 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
   * Breve historia y revisión de proyectos que lo usan
   * Programación con entornos visuales
   * Componentes electrónicos sencillos
-* [Programación visual en Arduino](./BitBloq.md) y (ArduinoBlocks)
+* [Programación visual en Arduino](./BitBloq.md) mBlock y (ArduinoBlocks)
   * Sentencias de control
   * Variables
   * Medida de tiempos
