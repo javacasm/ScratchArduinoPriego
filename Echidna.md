@@ -1,25 +1,13 @@
-# Robótica en educación Primaria: Scratch, Echidna y Makey-makey
-
-## CEP Priego-Montilla
-
-## Octubre de 2019
-
-### José Antonio Vacas @javacasm
-
-![CCbySA](./images/Licencia_CC.png)
-
-## http://bit.ly/RPPriego
-
 # [Echidna](http://echidna.es/)
 
 Echidna es un escudo/shield de Arduino y que incluye mucho sensores y componentes ya soldados, de manera que podemos trabajar con Arduino sin necesidad de saber manipular la electrónica necesaria
 
 Ha sido diseñado por unos profes: Jorge Lobo, José Pujol y Xavier Rosas
 
-![Echidna](./images/echidnashield.png)
+![Echidna](./imagenes/echidnashield.png)
 
 
-![Echidna esquema](./images/EschidnaShield-esquema.png)
+![Echidna esquema](./imagenes/EschidnaShield-esquema.png)
 
 ## Entornos de programación
 
@@ -38,7 +26,7 @@ Soporta Bluetooth Controller, Codey Rocky, HaloCode, mBot, MotionBlock, Neuron, 
 
 ### Necesitamos el mblock mlink  https://www.mblock.cc/en-us/download/
 
-![mlink instalar](./images/InstalarMlink.png)
+![mlink instalar](./imagenes/InstalarMlink.png)
 
 [Guía de instalación](https://www.mblock.cc/doc/en/basics/mlink-quick-start-guide.html#mlink-quick-start-guide)
 
@@ -70,13 +58,13 @@ Y pulsamos conectar
 
 Haremos parpadear el led Rojo
 
-![Hello LED!](./images/HelloLed!.png)
+![Hello LED!](./imagenes/HelloLed!.png)
 
 [Proyecto](https://planet.mblock.cc/project/102035)
 
 ### Led RGB
 
-![Mezcla colores](./images/Colores-MezclaRGB.jpeg)
+![Mezcla colores](./imagenes/Colores-MezclaRGB.jpeg)
 
 [Selector de colores](https://htmlcolorcodes.com/es/)
 
@@ -86,8 +74,8 @@ Y a la vez haremos que se vayan leyendo los colores en inglés, con la extensió
 
 Parece que hay algo de desajuste. Tendremos que mejorar la comunicación con ... mensajes    
 
-![Programa Arduino](./images/Colores-Arduino.png)
-![Programa Osito](./images/Colores-Osito.png)
+![Programa Arduino](./imagenes/Colores-Arduino.png)
+![Programa Osito](./imagenes/Colores-Osito.png)
 
 [Programa](https://planet.mblock.cc/project/projectshare/101707)
 
@@ -99,7 +87,7 @@ Usaremos los 3 leds de colores para indicar el nivel de luz:
 * Amarillo: nivel de luz medio
 * Verde: luz suficiente
 
-![NivelLuminoso](./images/NivelLuminoso.png)
+![NivelLuminoso](./imagenes/NivelLuminoso.png)
 
 [Proyecto](https://planet.mblock.cc/project/102785)
 
@@ -111,9 +99,9 @@ Vemos como la lectura de los sensores analógicos fluctúa, es algo normal. Un h
 
 Creamos una variables x e y para Arduino y comprobamos los valores del joystick
 
-![Joystick Arduino](./images/Joystick-Arduino.png)
+![Joystick Arduino](./imagenes/Joystick-Arduino.png)
 
-![Joystick Osito](./images/Joystick-Osito.png)
+![Joystick Osito](./imagenes/Joystick-Osito.png)
 
 [Proyecto](https://planet.mblock.cc/project/102052) 
 
@@ -127,7 +115,7 @@ Pista: modificar el programa para usar el sensor adecuado
 
 ### Controlamos la posición de 2 servos usando el joystick
 
-![2xServos-Joystick](./images/2xServos-Joystick.png)
+![2xServos-Joystick](./imagnes/2xServos-Joystick.png)
 
 Controlamos la posición de 2 servos usando el joystick
 
@@ -139,13 +127,13 @@ Veamos como hacer sonido con el zumbador: activamos y desactivamos rápidamente
 
 Un poquito de física sobre frecuencias y periodos....
 
-![Frecuencias y periosdos](./images/frecuenciaYperiodo.png)
+![Frecuencias y periosdos](./imagenes/frecuenciaYperiodo.png)
 
-![Sonido 440Hz Original](./images/Sonido440HzOrig.png)
+![Sonido 440Hz Original](./imagenes/Sonido440HzOrig.png)
 
 Veremos que en modo "en vivo" no es suficientemente rápido y tenemos que irnos a modo Arduino
 
-![Sonido 440Hz](./images/Sonido440.png)
+![Sonido 440Hz](./imagenes/Sonido440.png)
 
 [Programa](https://planet.mblock.cc/project/102073)
 
