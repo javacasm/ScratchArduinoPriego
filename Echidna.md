@@ -115,7 +115,7 @@ Pista: modificar el programa para usar el sensor adecuado
 
 ### Controlamos la posición de 2 servos usando el joystick
 
-![2xServos-Joystick](./imagnes/2xServos-Joystick.png)
+![2xServos-Joystick](./imagenes/2xServos-Joystick.png)
 
 Controlamos la posición de 2 servos usando el joystick
 
