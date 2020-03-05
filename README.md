@@ -108,8 +108,9 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
   * Uso de librerías
   * Sensores
   * Actuadores (motores y servos)
-* [Montaje de proyectos](./proyectos.md)
-  * Definición del proyecto
-  * Montaje
-  * Programación
+* Montaje de proyectos
+  * [Proyectos con bitbloq]](./proyectos.md)
+  * [Proyectos con mBlock](./mBlock.md)
+  * [Proyectos con arduinoBlocks](./arduinoBlocks.md)
+  * [Proyectos con Arduino](./proyectosArduino.md)
 * Exposición de los proyectos
