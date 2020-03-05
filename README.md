@@ -110,7 +110,7 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
   * Sensores
   * Actuadores (motores y servos)
 * Montaje de proyectos
-  * [Proyectos con bitbloq]](./proyectos.md)
+  * [Proyectos con bitbloq](./proyectos.md)
   * [Proyectos con mBlock](./mBlock.md)
   * [Proyectos con arduinoBlocks](./arduinoBlocks.md)
   * [Proyectos con Arduino](./proyectosArduino.md)
