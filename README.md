@@ -113,4 +113,5 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
   * [Proyectos con mBlock](./mBlock.md)
   * [Proyectos con arduinoBlocks](./arduinoBlocks.md)
   * [Proyectos con Arduino](./proyectosArduino.md)
+* [Simuladores](https://github.com/javacasm/ArduinoBasico/blob/master/1.5%20Y%20si%20no%20tengo:%20Emuladores%20y%20simuladores.html.md) tinkercad.com
 * Exposición de los proyectos
