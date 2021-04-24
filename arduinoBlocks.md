@@ -126,7 +126,7 @@ Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continua
 
 ## Con un relé usaremos ¡¡grandes corrientes eléctricas!!
 
-![DHT11 montaje](./imagenes/ReleUno_bb.png)
+![Montaje Relé](./imagenes/ReleUno_bb.png)
 
 ![Danger](./imagenes/Dangers-of-electric-shock.jpg)
 
@@ -147,11 +147,11 @@ Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continua
 Ahora deberíamos seguir con semáforos, kit, (cylon) y esas cosas....
 
 
-### Crea tu propio material de laboratorio
+### Utilizando sensores sencillos
 
 Podemos utilizar los componentes disponibles con conexión sencilla
 
-#### DTH11
+#### DTH11: sensor de temperatura y humedad
 
 ![DHT11_programa](./imagenes/DHT11_programa.png)
 
