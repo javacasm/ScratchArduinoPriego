@@ -501,7 +501,7 @@ El programa sería
 
 Podemos pensar en los sensores como un circuito externo que tenemos que alimentar conectando a 5v y GND (divisor de tensión)
 
-![divisor de tensión](http://panamahitek.com/wp-content/uploads/2014/01/fotoresistor.png)
+![Divisor de tensión](./imagenes/fotoresistor.png)
 
 Estudiar el comportamiento con la luz
 
@@ -513,7 +513,7 @@ Estudiar el comportamiento con la luz
 # LDR (célula fotoeléctrica)
 
 Ejemplo: activaremos un led al pasar de determinado nivel de luz
-![montaje LDR](http://s3rgiosan.com/workshop-arduino/sketches/sketch5b.png)
+
 
 ## Activación de led por umbral de luz
 
